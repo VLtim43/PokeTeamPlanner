@@ -4,11 +4,11 @@
  * This script fetches a regional pokedex from PokeAPI and updates
  * the corresponding column in the database.
  *
- * Usage: node scripts/addRegionalDex.js <pokedex-name>
+ * Usage: node scripts/addRegionalDex.ts <pokedex-name>
  * Examples:
- *   node scripts/addRegionalDex.js updated-hoenn
- *   node scripts/addRegionalDex.js galar
- *   node scripts/addRegionalDex.js paldea
+ *   node scripts/addRegionalDex.ts updated-hoenn
+ *   node scripts/addRegionalDex.ts galar
+ *   node scripts/addRegionalDex.ts paldea
  */
 
 import Database from "better-sqlite3";
@@ -16,8 +16,25 @@ import Database from "better-sqlite3";
 const DB_PATH = "public/data/pokemon.db";
 const BASE_URL = "https://pokeapi.co/api/v2";
 
+// PokeAPI types
+interface PokemonSpeciesReference {
+  name: string;
+  url: string;
+}
+
+interface PokedexEntry {
+  entry_number: number;
+  pokemon_species: PokemonSpeciesReference;
+}
+
+interface RegionalPokedex {
+  id: number;
+  name: string;
+  pokemon_entries: PokedexEntry[];
+}
+
 // Map pokedex names to database column names
-const POKEDEX_COLUMN_MAP = {
+const POKEDEX_COLUMN_MAP: Record<string, string> = {
   "kanto": "kanto",
   "updated-johto": "updated_johto",
   "updated-hoenn": "updated_hoenn",
@@ -36,7 +53,7 @@ const POKEDEX_COLUMN_MAP = {
   "blueberry": "blueberry"
 };
 
-async function fetchRegionalPokedex(pokedexName) {
+async function fetchRegionalPokedex(pokedexName: string): Promise<RegionalPokedex> {
   console.log(`Fetching ${pokedexName} pokedex...`);
 
   const response = await fetch(`${BASE_URL}/pokedex/${pokedexName}`);
@@ -44,13 +61,13 @@ async function fetchRegionalPokedex(pokedexName) {
     throw new Error(`Failed to fetch pokedex: ${response.statusText}`);
   }
 
-  const pokedex = await response.json();
+  const pokedex = await response.json() as RegionalPokedex;
   console.log(`Found ${pokedex.pokemon_entries.length} Pokemon in ${pokedex.name}`);
 
   return pokedex;
 }
 
-async function updateDatabase(pokedexName) {
+async function updateDatabase(pokedexName: string): Promise<void> {
   const columnName = POKEDEX_COLUMN_MAP[pokedexName];
 
   if (!columnName) {
@@ -72,7 +89,7 @@ async function updateDatabase(pokedexName) {
 
   // Update all Pokemon in this regional dex
   console.log(`\nUpdating database column: ${columnName}...`);
-  const updateMany = db.transaction((entries) => {
+  const updateMany = db.transaction((entries: PokedexEntry[]) => {
     for (const entry of entries) {
       // Extract Pokemon ID from the species URL
       const id = parseInt(entry.pokemon_species.url.split("/").slice(-2)[0]);
@@ -85,7 +102,7 @@ async function updateDatabase(pokedexName) {
   updateMany(pokedex.pokemon_entries);
 
   // Verify
-  const count = db.prepare(`SELECT COUNT(*) as count FROM pokemon WHERE ${columnName} IS NOT NULL`).get();
+  const count = db.prepare(`SELECT COUNT(*) as count FROM pokemon WHERE ${columnName} IS NOT NULL`).get() as { count: number };
   console.log(`✓ Successfully updated ${count.count} Pokemon in ${columnName} column`);
 
   // Show sample
@@ -103,15 +120,15 @@ const pokedexName = args[0];
 
 if (!pokedexName || args.includes("--help") || args.includes("-h")) {
   console.log(`
-Usage: node scripts/addRegionalDex.js <pokedex-name>
+Usage: node scripts/addRegionalDex.ts <pokedex-name>
 
 Available pokedexes:
   ${Object.keys(POKEDEX_COLUMN_MAP).join("\n  ")}
 
 Examples:
-  node scripts/addRegionalDex.js updated-hoenn
-  node scripts/addRegionalDex.js galar
-  node scripts/addRegionalDex.js paldea
+  node scripts/addRegionalDex.ts updated-hoenn
+  node scripts/addRegionalDex.ts galar
+  node scripts/addRegionalDex.ts paldea
   `);
   process.exit(pokedexName ? 0 : 1);
 }

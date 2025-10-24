@@ -4,7 +4,7 @@
  * This script fetches the national pokedex from PokeAPI and creates
  * a SQLite database with all Pokemon.
  *
- * Usage: node scripts/buildDatabase.js
+ * Usage: node scripts/buildDatabase.ts
  */
 
 import Database from "better-sqlite3";
@@ -13,6 +13,23 @@ import { dirname } from "path";
 
 const DB_PATH = "public/data/pokemon.db";
 const BASE_URL = "https://pokeapi.co/api/v2";
+
+// PokeAPI types
+interface PokemonSpeciesReference {
+  name: string;
+  url: string;
+}
+
+interface PokedexEntry {
+  entry_number: number;
+  pokemon_species: PokemonSpeciesReference;
+}
+
+interface NationalPokedex {
+  id: number;
+  name: string;
+  pokemon_entries: PokedexEntry[];
+}
 
 // Ensure directory exists
 mkdirSync(dirname(DB_PATH), { recursive: true });
@@ -57,7 +74,7 @@ if (!response.ok) {
   throw new Error(`Failed to fetch national pokedex: ${response.statusText}`);
 }
 
-const nationalDex = await response.json();
+const nationalDex = await response.json() as NationalPokedex;
 console.log(
   `Found ${nationalDex.pokemon_entries.length} Pokemon in national dex`
 );
@@ -69,7 +86,7 @@ const insert = db.prepare(`
 
 // Insert all Pokemon
 console.log("\nInserting Pokemon into database...");
-const insertMany = db.transaction((entries) => {
+const insertMany = db.transaction((entries: PokedexEntry[]) => {
   for (const entry of entries) {
     // Extract Pokemon ID from the species URL
     // URL format: https://pokeapi.co/api/v2/pokemon-species/{id}/
@@ -82,7 +99,7 @@ const insertMany = db.transaction((entries) => {
 
 insertMany(nationalDex.pokemon_entries);
 
-const count = db.prepare("SELECT COUNT(*) as count FROM pokemon").get();
+const count = db.prepare("SELECT COUNT(*) as count FROM pokemon").get() as { count: number };
 console.log(`\n✓ Successfully inserted ${count.count} Pokemon into database`);
 console.log(`✓ Database saved to: ${DB_PATH}`);
 
