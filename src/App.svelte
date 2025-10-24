@@ -1,8 +1,34 @@
 <script>
+  let selectedGame = $state('FireRed/LeafGreen');
   const teamSlots = Array(6).fill(null);
+
+  const gameOptions = [
+    'FireRed/LeafGreen',
+    'Ruby/Sapphire',
+    'Diamond/Pearl/Platinum',
+    'HeartGold/SoulSilver',
+    'Black/White',
+    'Black/White 2',
+    'X/Y',
+    'Omega Ruby/Alpha Sapphire',
+    'Ultra Sun/Ultra Moon',
+    'Sword/Shield',
+    'Legends: Arceus',
+    'Scarlet/Violet',
+    'Legends: Z-A'
+  ];
 </script>
 
 <main>
+  <div class="game-selector">
+    <label for="game-select">Select Game:</label>
+    <select id="game-select" bind:value={selectedGame}>
+      {#each gameOptions as game}
+        <option value={game}>{game}</option>
+      {/each}
+    </select>
+  </div>
+
   <div class="team-container">
     <h1>Your Team</h1>
     <div class="team-slots">
@@ -23,8 +49,45 @@
     width: 100%;
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
+    padding-top: 2rem;
+  }
+
+  .game-selector {
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    label {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #5b8fc7;
+    }
+
+    select {
+      padding: 0.75rem 1.5rem;
+      font-size: 1rem;
+      border: 2px solid #6fa388;
+      border-radius: 8px;
+      background-color: white;
+      color: #3d5a4d;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      font-weight: 500;
+
+      &:hover {
+        border-color: #5b8fc7;
+        box-shadow: 0 2px 8px rgba(91, 143, 199, 0.2);
+      }
+
+      &:focus {
+        outline: none;
+        border-color: #5b8fc7;
+        box-shadow: 0 0 0 3px rgba(91, 143, 199, 0.1);
+      }
+    }
   }
 
   .team-container {
