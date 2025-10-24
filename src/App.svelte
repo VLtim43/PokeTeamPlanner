@@ -1,8 +1,10 @@
-<script>
-  let selectedGame = $state('FireRed/LeafGreen');
+<script lang="ts">
+  import { getDexesForGame, getRegionForGame, type GameName } from './gameConfig';
+
+  let selectedGame = $state<GameName>('FireRed/LeafGreen');
   const teamSlots = Array(6).fill(null);
 
-  const gameOptions = [
+  const gameOptions: GameName[] = [
     'FireRed/LeafGreen',
     'Ruby/Sapphire',
     'Diamond/Pearl/Platinum',
@@ -17,6 +19,15 @@
     'Scarlet/Violet',
     'Legends: Z-A'
   ];
+
+  // You can now use these helper functions to get the dexes for the selected game
+  $effect(() => {
+    const dexes = getDexesForGame(selectedGame);
+    const region = getRegionForGame(selectedGame);
+    console.log(`Selected game: ${selectedGame}`);
+    console.log(`Region: ${region}`);
+    console.log(`Dexes:`, dexes);
+  });
 </script>
 
 <main>
