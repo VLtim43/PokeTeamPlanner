@@ -23,6 +23,27 @@
     "Legends: Z-A",
   ];
 
+  const pokemonTypes = [
+    "Normal",
+    "Fire",
+    "Water",
+    "Electric",
+    "Grass",
+    "Ice",
+    "Fighting",
+    "Poison",
+    "Ground",
+    "Flying",
+    "Psychic",
+    "Bug",
+    "Rock",
+    "Ghost",
+    "Dragon",
+    "Dark",
+    "Steel",
+    "Fairy",
+  ];
+
   // Load pokemon when game changes
   async function loadPokemonForGame() {
     if (!selectedGame) {
@@ -63,6 +84,14 @@
         </div>
       {/each}
     </div>
+  </div>
+
+  <div class="type-filter">
+    {#each pokemonTypes as type}
+      <button class="type-button type-{type.toLowerCase()}">
+        {type}
+      </button>
+    {/each}
   </div>
 
   {#if loading}
@@ -249,5 +278,87 @@
     font-size: 1.25rem;
     font-weight: 600;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .type-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+
+  .type-button {
+    padding: 0.5rem 1.25rem;
+    border: none;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    &.type-normal {
+      background-color: #a8a878;
+    }
+    &.type-fire {
+      background-color: #f08030;
+    }
+    &.type-water {
+      background-color: #6890f0;
+    }
+    &.type-electric {
+      background-color: #f8d030;
+    }
+    &.type-grass {
+      background-color: #78c850;
+    }
+    &.type-ice {
+      background-color: #98d8d8;
+    }
+    &.type-fighting {
+      background-color: #c03028;
+    }
+    &.type-poison {
+      background-color: #a040a0;
+    }
+    &.type-ground {
+      background-color: #e0c068;
+    }
+    &.type-flying {
+      background-color: #a890f0;
+    }
+    &.type-psychic {
+      background-color: #f85888;
+    }
+    &.type-bug {
+      background-color: #a8b820;
+    }
+    &.type-rock {
+      background-color: #b8a038;
+    }
+    &.type-ghost {
+      background-color: #705898;
+    }
+    &.type-dragon {
+      background-color: #7038f8;
+    }
+    &.type-dark {
+      background-color: #705848;
+    }
+    &.type-steel {
+      background-color: #b8b8d0;
+    }
+    &.type-fairy {
+      background-color: #ee99ac;
+    }
   }
 </style>
