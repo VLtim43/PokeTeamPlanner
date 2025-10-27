@@ -18,8 +18,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 164,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 2,
@@ -40,8 +40,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 165,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 3,
@@ -62,8 +62,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 166,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 4,
@@ -84,7 +84,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 167,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -106,7 +106,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 168,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -128,8 +128,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 169,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Flying"
   },
   {
     "id": 7,
@@ -150,7 +150,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 170,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -172,7 +172,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 171,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -194,7 +194,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 172,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -216,7 +216,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -238,7 +238,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -260,8 +260,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 13,
@@ -282,8 +282,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 14,
@@ -304,8 +304,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 15,
@@ -326,8 +326,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 16,
@@ -348,8 +348,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 17,
@@ -370,8 +370,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 18,
@@ -392,8 +392,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 19,
@@ -414,7 +414,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -436,7 +436,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -458,8 +458,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 22,
@@ -480,8 +480,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 23,
@@ -502,7 +502,7 @@
     "paldea": null,
     "kitakami": 18,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -524,7 +524,7 @@
     "paldea": null,
     "kitakami": 19,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -546,7 +546,7 @@
     "paldea": 74,
     "kitakami": 21,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -568,7 +568,7 @@
     "paldea": 75,
     "kitakami": 22,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -590,7 +590,7 @@
     "paldea": null,
     "kitakami": 116,
     "blueberry": 155,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -612,7 +612,7 @@
     "paldea": null,
     "kitakami": 117,
     "blueberry": 156,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -634,7 +634,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -656,7 +656,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -678,8 +678,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Ground"
   },
   {
     "id": 32,
@@ -700,7 +700,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -722,7 +722,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -744,8 +744,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Ground"
   },
   {
     "id": 35,
@@ -766,7 +766,7 @@
     "paldea": null,
     "kitakami": 152,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -788,7 +788,7 @@
     "paldea": null,
     "kitakami": 153,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -810,7 +810,7 @@
     "paldea": null,
     "kitakami": 37,
     "blueberry": 157,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -832,7 +832,7 @@
     "paldea": null,
     "kitakami": 38,
     "blueberry": 158,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -854,8 +854,8 @@
     "paldea": 60,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Fairy"
   },
   {
     "id": 40,
@@ -876,8 +876,8 @@
     "paldea": 61,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Fairy"
   },
   {
     "id": 41,
@@ -898,8 +898,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Flying"
   },
   {
     "id": 42,
@@ -920,8 +920,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Flying"
   },
   {
     "id": 43,
@@ -942,8 +942,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 62,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 44,
@@ -964,8 +964,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 63,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 45,
@@ -986,8 +986,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 64,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 46,
@@ -1008,8 +1008,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Grass"
   },
   {
     "id": 47,
@@ -1030,8 +1030,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Grass"
   },
   {
     "id": 48,
@@ -1052,8 +1052,8 @@
     "paldea": 256,
     "kitakami": null,
     "blueberry": 8,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 49,
@@ -1074,8 +1074,8 @@
     "paldea": 257,
     "kitakami": null,
     "blueberry": 9,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 50,
@@ -1096,7 +1096,7 @@
     "paldea": 148,
     "kitakami": null,
     "blueberry": 66,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -1118,7 +1118,7 @@
     "paldea": 149,
     "kitakami": null,
     "blueberry": 67,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -1140,7 +1140,7 @@
     "paldea": 141,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -1162,7 +1162,7 @@
     "paldea": 142,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -1184,7 +1184,7 @@
     "paldea": 55,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -1206,7 +1206,7 @@
     "paldea": 56,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -1228,7 +1228,7 @@
     "paldea": 158,
     "kitakami": 99,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -1250,7 +1250,7 @@
     "paldea": 159,
     "kitakami": 100,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -1272,7 +1272,7 @@
     "paldea": 213,
     "kitakami": 78,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -1294,7 +1294,7 @@
     "paldea": 214,
     "kitakami": 79,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -1316,7 +1316,7 @@
     "paldea": null,
     "kitakami": 39,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -1338,7 +1338,7 @@
     "paldea": null,
     "kitakami": 40,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -1360,8 +1360,8 @@
     "paldea": null,
     "kitakami": 41,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Fighting"
   },
   {
     "id": 63,
@@ -1382,7 +1382,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -1404,7 +1404,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -1426,7 +1426,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -1448,7 +1448,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -1470,7 +1470,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -1492,7 +1492,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -1514,8 +1514,8 @@
     "paldea": null,
     "kitakami": 23,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 70,
@@ -1536,8 +1536,8 @@
     "paldea": null,
     "kitakami": 24,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 71,
@@ -1558,8 +1558,8 @@
     "paldea": null,
     "kitakami": 25,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 72,
@@ -1580,8 +1580,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 50,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Poison"
   },
   {
     "id": 73,
@@ -1602,8 +1602,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 51,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Poison"
   },
   {
     "id": 74,
@@ -1624,8 +1624,8 @@
     "paldea": null,
     "kitakami": 80,
     "blueberry": 96,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Ground"
   },
   {
     "id": 75,
@@ -1646,8 +1646,8 @@
     "paldea": null,
     "kitakami": 81,
     "blueberry": 97,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Ground"
   },
   {
     "id": 76,
@@ -1668,8 +1668,8 @@
     "paldea": null,
     "kitakami": 82,
     "blueberry": 98,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Ground"
   },
   {
     "id": 77,
@@ -1690,7 +1690,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -1712,7 +1712,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -1734,8 +1734,8 @@
     "paldea": 324,
     "kitakami": null,
     "blueberry": 75,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Psychic"
   },
   {
     "id": 80,
@@ -1756,8 +1756,8 @@
     "paldea": 325,
     "kitakami": null,
     "blueberry": 76,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Psychic"
   },
   {
     "id": 81,
@@ -1778,8 +1778,8 @@
     "paldea": 209,
     "kitakami": null,
     "blueberry": 116,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Steel"
   },
   {
     "id": 82,
@@ -1800,8 +1800,8 @@
     "paldea": 210,
     "kitakami": null,
     "blueberry": 117,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Steel"
   },
   {
     "id": 83,
@@ -1822,8 +1822,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 84,
@@ -1844,8 +1844,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 1,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 85,
@@ -1866,8 +1866,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 2,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 86,
@@ -1888,7 +1888,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 143,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -1910,8 +1910,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 144,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ice"
   },
   {
     "id": 88,
@@ -1932,7 +1932,7 @@
     "paldea": 194,
     "kitakami": null,
     "blueberry": 68,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -1954,7 +1954,7 @@
     "paldea": 195,
     "kitakami": null,
     "blueberry": 69,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -1976,7 +1976,7 @@
     "paldea": 329,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -1998,8 +1998,8 @@
     "paldea": 330,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ice"
   },
   {
     "id": 92,
@@ -2020,8 +2020,8 @@
     "paldea": 68,
     "kitakami": 118,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Poison"
   },
   {
     "id": 93,
@@ -2042,8 +2042,8 @@
     "paldea": 69,
     "kitakami": 119,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Poison"
   },
   {
     "id": 94,
@@ -2064,8 +2064,8 @@
     "paldea": 70,
     "kitakami": 120,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Poison"
   },
   {
     "id": 95,
@@ -2086,8 +2086,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Ground"
   },
   {
     "id": 96,
@@ -2108,7 +2108,7 @@
     "paldea": 66,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -2130,7 +2130,7 @@
     "paldea": 67,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -2152,7 +2152,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -2174,7 +2174,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -2196,7 +2196,7 @@
     "paldea": 207,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -2218,7 +2218,7 @@
     "paldea": 208,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -2240,8 +2240,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 3,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Psychic"
   },
   {
     "id": 103,
@@ -2262,8 +2262,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 4,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Psychic"
   },
   {
     "id": 104,
@@ -2284,7 +2284,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -2306,7 +2306,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -2328,7 +2328,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 93,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -2350,7 +2350,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 94,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -2372,7 +2372,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -2394,7 +2394,7 @@
     "paldea": null,
     "kitakami": 135,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -2416,7 +2416,7 @@
     "paldea": null,
     "kitakami": 136,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -2438,8 +2438,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 5,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Rock"
   },
   {
     "id": 112,
@@ -2460,8 +2460,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 6,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Rock"
   },
   {
     "id": 113,
@@ -2482,7 +2482,7 @@
     "paldea": 44,
     "kitakami": null,
     "blueberry": 17,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -2504,7 +2504,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -2526,7 +2526,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -2548,7 +2548,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 52,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -2570,7 +2570,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 53,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -2592,7 +2592,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -2614,7 +2614,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -2636,7 +2636,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -2658,8 +2658,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Psychic"
   },
   {
     "id": 122,
@@ -2680,8 +2680,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Fairy"
   },
   {
     "id": 123,
@@ -2702,8 +2702,8 @@
     "paldea": 260,
     "kitakami": null,
     "blueberry": 19,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 124,
@@ -2724,8 +2724,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Psychic"
   },
   {
     "id": 125,
@@ -2746,7 +2746,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 11,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -2768,7 +2768,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 14,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -2790,7 +2790,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -2812,7 +2812,7 @@
     "paldea": 223,
     "kitakami": null,
     "blueberry": 22,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -2834,7 +2834,7 @@
     "paldea": 134,
     "kitakami": 43,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -2856,8 +2856,8 @@
     "paldea": 135,
     "kitakami": 44,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Flying"
   },
   {
     "id": 131,
@@ -2878,8 +2878,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 145,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ice"
   },
   {
     "id": 132,
@@ -2900,7 +2900,7 @@
     "paldea": 212,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -2922,7 +2922,7 @@
     "paldea": 179,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -2944,7 +2944,7 @@
     "paldea": 180,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -2966,7 +2966,7 @@
     "paldea": 181,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -2988,7 +2988,7 @@
     "paldea": 182,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -3010,7 +3010,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 129,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -3032,8 +3032,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Water"
   },
   {
     "id": 139,
@@ -3054,8 +3054,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Water"
   },
   {
     "id": 140,
@@ -3076,8 +3076,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Water"
   },
   {
     "id": 141,
@@ -3098,8 +3098,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Water"
   },
   {
     "id": 142,
@@ -3120,8 +3120,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Flying"
   },
   {
     "id": 143,
@@ -3142,7 +3142,7 @@
     "paldea": null,
     "kitakami": 103,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -3164,8 +3164,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Flying"
   },
   {
     "id": 145,
@@ -3186,8 +3186,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Flying"
   },
   {
     "id": 146,
@@ -3208,8 +3208,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Flying"
   },
   {
     "id": 147,
@@ -3230,7 +3230,7 @@
     "paldea": 347,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -3252,7 +3252,7 @@
     "paldea": 348,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -3274,8 +3274,8 @@
     "paldea": 349,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Flying"
   },
   {
     "id": 150,
@@ -3296,7 +3296,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -3318,7 +3318,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -3340,7 +3340,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 173,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -3362,7 +3362,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 174,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -3384,7 +3384,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 175,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -3406,7 +3406,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 176,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -3428,7 +3428,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 177,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -3450,7 +3450,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 178,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -3472,7 +3472,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 179,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -3494,7 +3494,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 180,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -3516,7 +3516,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 181,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -3538,7 +3538,7 @@
     "paldea": null,
     "kitakami": 26,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -3560,7 +3560,7 @@
     "paldea": null,
     "kitakami": 27,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -3582,8 +3582,8 @@
     "paldea": null,
     "kitakami": 45,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 164,
@@ -3604,8 +3604,8 @@
     "paldea": null,
     "kitakami": 46,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 165,
@@ -3626,8 +3626,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 166,
@@ -3648,8 +3648,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 167,
@@ -3670,8 +3670,8 @@
     "paldea": null,
     "kitakami": 1,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 168,
@@ -3692,8 +3692,8 @@
     "paldea": null,
     "kitakami": 2,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 169,
@@ -3714,8 +3714,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Flying"
   },
   {
     "id": 170,
@@ -3736,8 +3736,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 78,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Electric"
   },
   {
     "id": 171,
@@ -3758,8 +3758,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 79,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Electric"
   },
   {
     "id": 172,
@@ -3780,7 +3780,7 @@
     "paldea": 73,
     "kitakami": 20,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -3802,7 +3802,7 @@
     "paldea": null,
     "kitakami": 151,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -3824,8 +3824,8 @@
     "paldea": 59,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Fairy"
   },
   {
     "id": 175,
@@ -3846,7 +3846,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -3868,8 +3868,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fairy",
+    "type2": "Flying"
   },
   {
     "id": 177,
@@ -3890,8 +3890,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Flying"
   },
   {
     "id": 178,
@@ -3912,8 +3912,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Flying"
   },
   {
     "id": 179,
@@ -3934,7 +3934,7 @@
     "paldea": 101,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -3956,7 +3956,7 @@
     "paldea": 102,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -3978,7 +3978,7 @@
     "paldea": 103,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -4000,7 +4000,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 65,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -4022,8 +4022,8 @@
     "paldea": 47,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Fairy"
   },
   {
     "id": 184,
@@ -4044,8 +4044,8 @@
     "paldea": 48,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Fairy"
   },
   {
     "id": 185,
@@ -4066,7 +4066,7 @@
     "paldea": 88,
     "kitakami": 84,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -4088,7 +4088,7 @@
     "paldea": null,
     "kitakami": 42,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -4110,8 +4110,8 @@
     "paldea": 16,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Flying"
   },
   {
     "id": 188,
@@ -4132,8 +4132,8 @@
     "paldea": 17,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Flying"
   },
   {
     "id": 189,
@@ -4154,8 +4154,8 @@
     "paldea": 18,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Flying"
   },
   {
     "id": 190,
@@ -4176,7 +4176,7 @@
     "paldea": null,
     "kitakami": 47,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -4198,7 +4198,7 @@
     "paldea": 31,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -4220,7 +4220,7 @@
     "paldea": 32,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -4242,8 +4242,8 @@
     "paldea": null,
     "kitakami": 3,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 194,
@@ -4264,8 +4264,8 @@
     "paldea": 53,
     "kitakami": 5,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ground"
   },
   {
     "id": 195,
@@ -4286,8 +4286,8 @@
     "paldea": null,
     "kitakami": 6,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ground"
   },
   {
     "id": 196,
@@ -4308,7 +4308,7 @@
     "paldea": 183,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -4330,7 +4330,7 @@
     "paldea": 184,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -4352,8 +4352,8 @@
     "paldea": 232,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Flying"
   },
   {
     "id": 199,
@@ -4374,8 +4374,8 @@
     "paldea": 326,
     "kitakami": null,
     "blueberry": 77,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Psychic"
   },
   {
     "id": 200,
@@ -4396,7 +4396,7 @@
     "paldea": 114,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -4418,7 +4418,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -4440,7 +4440,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -4462,8 +4462,8 @@
     "paldea": 192,
     "kitakami": null,
     "blueberry": 25,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Psychic"
   },
   {
     "id": 204,
@@ -4484,7 +4484,7 @@
     "paldea": 258,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -4506,8 +4506,8 @@
     "paldea": 259,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Steel"
   },
   {
     "id": 206,
@@ -4528,7 +4528,7 @@
     "paldea": 188,
     "kitakami": 160,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -4550,8 +4550,8 @@
     "paldea": null,
     "kitakami": 121,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Flying"
   },
   {
     "id": 208,
@@ -4572,8 +4572,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Ground"
   },
   {
     "id": 209,
@@ -4594,7 +4594,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 151,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -4616,7 +4616,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 152,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -4638,8 +4638,8 @@
     "paldea": 331,
     "kitakami": null,
     "blueberry": 146,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Poison"
   },
   {
     "id": 212,
@@ -4660,8 +4660,8 @@
     "paldea": 261,
     "kitakami": null,
     "blueberry": 20,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Steel"
   },
   {
     "id": 213,
@@ -4682,8 +4682,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Rock"
   },
   {
     "id": 214,
@@ -4704,8 +4704,8 @@
     "paldea": 262,
     "kitakami": 49,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Fighting"
   },
   {
     "id": 215,
@@ -4726,8 +4726,8 @@
     "paldea": 230,
     "kitakami": 170,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Ice"
   },
   {
     "id": 216,
@@ -4748,7 +4748,7 @@
     "paldea": 215,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -4770,7 +4770,7 @@
     "paldea": 216,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -4792,7 +4792,7 @@
     "paldea": null,
     "kitakami": 144,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -4814,8 +4814,8 @@
     "paldea": null,
     "kitakami": 145,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Rock"
   },
   {
     "id": 220,
@@ -4836,8 +4836,8 @@
     "paldea": null,
     "kitakami": 50,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Ground"
   },
   {
     "id": 221,
@@ -4858,8 +4858,8 @@
     "paldea": null,
     "kitakami": 51,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Ground"
   },
   {
     "id": 222,
@@ -4880,8 +4880,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Rock"
   },
   {
     "id": 223,
@@ -4902,7 +4902,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -4924,7 +4924,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -4946,8 +4946,8 @@
     "paldea": 354,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Flying"
   },
   {
     "id": 226,
@@ -4968,8 +4968,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Flying"
   },
   {
     "id": 227,
@@ -4990,8 +4990,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 113,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Flying"
   },
   {
     "id": 228,
@@ -5012,8 +5012,8 @@
     "paldea": 25,
     "kitakami": 123,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Fire"
   },
   {
     "id": 229,
@@ -5034,8 +5034,8 @@
     "paldea": 26,
     "kitakami": 124,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Fire"
   },
   {
     "id": 230,
@@ -5056,8 +5056,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 54,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Dragon"
   },
   {
     "id": 231,
@@ -5078,7 +5078,7 @@
     "paldea": 122,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -5100,7 +5100,7 @@
     "paldea": 123,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -5122,7 +5122,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 130,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -5144,7 +5144,7 @@
     "paldea": 204,
     "kitakami": 53,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -5166,7 +5166,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 40,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -5188,7 +5188,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 92,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -5210,7 +5210,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 95,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -5232,8 +5232,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Psychic"
   },
   {
     "id": 239,
@@ -5254,7 +5254,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 10,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -5276,7 +5276,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 13,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -5298,7 +5298,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -5320,7 +5320,7 @@
     "paldea": 45,
     "kitakami": null,
     "blueberry": 18,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -5342,7 +5342,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -5364,7 +5364,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -5386,7 +5386,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -5408,8 +5408,8 @@
     "paldea": 316,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Ground"
   },
   {
     "id": 247,
@@ -5430,8 +5430,8 @@
     "paldea": 317,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Ground"
   },
   {
     "id": 248,
@@ -5452,8 +5452,8 @@
     "paldea": 318,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Dark"
   },
   {
     "id": 249,
@@ -5474,8 +5474,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Flying"
   },
   {
     "id": 250,
@@ -5496,8 +5496,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Flying"
   },
   {
     "id": 251,
@@ -5518,8 +5518,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Grass"
   },
   {
     "id": 252,
@@ -5540,7 +5540,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 182,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -5562,7 +5562,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 183,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -5584,7 +5584,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 184,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -5606,7 +5606,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 185,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -5628,8 +5628,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 186,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Fighting"
   },
   {
     "id": 257,
@@ -5650,8 +5650,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 187,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Fighting"
   },
   {
     "id": 258,
@@ -5672,7 +5672,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 188,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -5694,8 +5694,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 189,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ground"
   },
   {
     "id": 260,
@@ -5716,8 +5716,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 190,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ground"
   },
   {
     "id": 261,
@@ -5738,7 +5738,7 @@
     "paldea": null,
     "kitakami": 7,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -5760,7 +5760,7 @@
     "paldea": null,
     "kitakami": 8,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -5782,7 +5782,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -5804,7 +5804,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -5826,7 +5826,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -5848,7 +5848,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -5870,8 +5870,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 268,
@@ -5892,7 +5892,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -5914,8 +5914,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 270,
@@ -5936,8 +5936,8 @@
     "paldea": null,
     "kitakami": 104,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Grass"
   },
   {
     "id": 271,
@@ -5958,8 +5958,8 @@
     "paldea": null,
     "kitakami": 105,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Grass"
   },
   {
     "id": 272,
@@ -5980,8 +5980,8 @@
     "paldea": null,
     "kitakami": 106,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Grass"
   },
   {
     "id": 273,
@@ -6002,7 +6002,7 @@
     "paldea": null,
     "kitakami": 54,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -6024,8 +6024,8 @@
     "paldea": null,
     "kitakami": 55,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Dark"
   },
   {
     "id": 275,
@@ -6046,8 +6046,8 @@
     "paldea": null,
     "kitakami": 56,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Dark"
   },
   {
     "id": 276,
@@ -6068,8 +6068,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 277,
@@ -6090,8 +6090,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 278,
@@ -6112,8 +6112,8 @@
     "paldea": 132,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Flying"
   },
   {
     "id": 279,
@@ -6134,8 +6134,8 @@
     "paldea": 133,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Flying"
   },
   {
     "id": 280,
@@ -6156,8 +6156,8 @@
     "paldea": 62,
     "kitakami": 57,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Fairy"
   },
   {
     "id": 281,
@@ -6178,8 +6178,8 @@
     "paldea": 63,
     "kitakami": 58,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Fairy"
   },
   {
     "id": 282,
@@ -6200,8 +6200,8 @@
     "paldea": 64,
     "kitakami": 59,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Fairy"
   },
   {
     "id": 283,
@@ -6222,8 +6222,8 @@
     "paldea": 49,
     "kitakami": 149,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Water"
   },
   {
     "id": 284,
@@ -6244,8 +6244,8 @@
     "paldea": 50,
     "kitakami": 150,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 285,
@@ -6266,7 +6266,7 @@
     "paldea": 106,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -6288,8 +6288,8 @@
     "paldea": 107,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Fighting"
   },
   {
     "id": 287,
@@ -6310,7 +6310,7 @@
     "paldea": 78,
     "kitakami": null,
     "blueberry": 59,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -6332,7 +6332,7 @@
     "paldea": 79,
     "kitakami": null,
     "blueberry": 60,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -6354,7 +6354,7 @@
     "paldea": 80,
     "kitakami": null,
     "blueberry": 61,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -6376,8 +6376,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Ground"
   },
   {
     "id": 291,
@@ -6398,8 +6398,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 292,
@@ -6420,8 +6420,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Ghost"
   },
   {
     "id": 293,
@@ -6442,7 +6442,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -6464,7 +6464,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -6486,7 +6486,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -6508,7 +6508,7 @@
     "paldea": 116,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -6530,7 +6530,7 @@
     "paldea": 117,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -6552,8 +6552,8 @@
     "paldea": 46,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Fairy"
   },
   {
     "id": 299,
@@ -6574,7 +6574,7 @@
     "paldea": null,
     "kitakami": 107,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -6596,7 +6596,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -6618,7 +6618,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -6640,8 +6640,8 @@
     "paldea": 297,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Ghost"
   },
   {
     "id": 303,
@@ -6662,8 +6662,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Fairy"
   },
   {
     "id": 304,
@@ -6684,8 +6684,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Rock"
   },
   {
     "id": 305,
@@ -6706,8 +6706,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Rock"
   },
   {
     "id": 306,
@@ -6728,8 +6728,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Rock"
   },
   {
     "id": 307,
@@ -6750,8 +6750,8 @@
     "paldea": 161,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Psychic"
   },
   {
     "id": 308,
@@ -6772,8 +6772,8 @@
     "paldea": 162,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Psychic"
   },
   {
     "id": 309,
@@ -6794,7 +6794,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -6816,7 +6816,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -6838,7 +6838,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 119,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -6860,7 +6860,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 120,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -6882,7 +6882,7 @@
     "paldea": null,
     "kitakami": 9,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -6904,7 +6904,7 @@
     "paldea": null,
     "kitakami": 10,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -6926,8 +6926,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 316,
@@ -6948,7 +6948,7 @@
     "paldea": 139,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -6970,7 +6970,7 @@
     "paldea": 140,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -6992,8 +6992,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Dark"
   },
   {
     "id": 319,
@@ -7014,8 +7014,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Dark"
   },
   {
     "id": 320,
@@ -7036,7 +7036,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -7058,7 +7058,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -7080,8 +7080,8 @@
     "paldea": 151,
     "kitakami": null,
     "blueberry": 125,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Ground"
   },
   {
     "id": 323,
@@ -7102,8 +7102,8 @@
     "paldea": 152,
     "kitakami": null,
     "blueberry": 126,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Ground"
   },
   {
     "id": 324,
@@ -7124,7 +7124,7 @@
     "paldea": 150,
     "kitakami": null,
     "blueberry": 86,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -7146,7 +7146,7 @@
     "paldea": 111,
     "kitakami": 125,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -7168,7 +7168,7 @@
     "paldea": 112,
     "kitakami": 126,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -7190,7 +7190,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -7212,7 +7212,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 44,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -7234,8 +7234,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 45,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Dragon"
   },
   {
     "id": 330,
@@ -7256,8 +7256,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 46,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Dragon"
   },
   {
     "id": 331,
@@ -7278,7 +7278,7 @@
     "paldea": 252,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -7300,8 +7300,8 @@
     "paldea": 253,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Dark"
   },
   {
     "id": 333,
@@ -7322,8 +7322,8 @@
     "paldea": 219,
     "kitakami": null,
     "blueberry": 114,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 334,
@@ -7344,8 +7344,8 @@
     "paldea": 220,
     "kitakami": null,
     "blueberry": 115,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Flying"
   },
   {
     "id": 335,
@@ -7366,7 +7366,7 @@
     "paldea": 217,
     "kitakami": null,
     "blueberry": 70,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -7388,7 +7388,7 @@
     "paldea": 218,
     "kitakami": null,
     "blueberry": 71,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -7410,8 +7410,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Psychic"
   },
   {
     "id": 338,
@@ -7432,8 +7432,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Psychic"
   },
   {
     "id": 339,
@@ -7454,8 +7454,8 @@
     "paldea": 168,
     "kitakami": 162,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ground"
   },
   {
     "id": 340,
@@ -7476,8 +7476,8 @@
     "paldea": 169,
     "kitakami": 163,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ground"
   },
   {
     "id": 341,
@@ -7498,7 +7498,7 @@
     "paldea": null,
     "kitakami": 11,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -7520,8 +7520,8 @@
     "paldea": null,
     "kitakami": 12,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Dark"
   },
   {
     "id": 343,
@@ -7542,8 +7542,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Psychic"
   },
   {
     "id": 344,
@@ -7564,8 +7564,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Psychic"
   },
   {
     "id": 345,
@@ -7586,8 +7586,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Grass"
   },
   {
     "id": 346,
@@ -7608,8 +7608,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Grass"
   },
   {
     "id": 347,
@@ -7630,8 +7630,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Bug"
   },
   {
     "id": 348,
@@ -7652,8 +7652,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Bug"
   },
   {
     "id": 349,
@@ -7674,7 +7674,7 @@
     "paldea": null,
     "kitakami": 158,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -7696,7 +7696,7 @@
     "paldea": null,
     "kitakami": 159,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -7718,7 +7718,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -7740,7 +7740,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -7762,7 +7762,7 @@
     "paldea": 298,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -7784,7 +7784,7 @@
     "paldea": 299,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -7806,7 +7806,7 @@
     "paldea": null,
     "kitakami": 139,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -7828,7 +7828,7 @@
     "paldea": null,
     "kitakami": 140,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -7850,8 +7850,8 @@
     "paldea": 246,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Flying"
   },
   {
     "id": 358,
@@ -7872,7 +7872,7 @@
     "paldea": null,
     "kitakami": 143,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -7894,7 +7894,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -7916,7 +7916,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -7938,7 +7938,7 @@
     "paldea": 357,
     "kitakami": 172,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -7960,7 +7960,7 @@
     "paldea": 358,
     "kitakami": 173,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -7982,8 +7982,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Water"
   },
   {
     "id": 364,
@@ -8004,8 +8004,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Water"
   },
   {
     "id": 365,
@@ -8026,8 +8026,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Water"
   },
   {
     "id": 366,
@@ -8048,7 +8048,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -8070,7 +8070,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -8092,7 +8092,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -8114,8 +8114,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Rock"
   },
   {
     "id": 370,
@@ -8136,7 +8136,7 @@
     "paldea": 332,
     "kitakami": null,
     "blueberry": 82,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -8158,7 +8158,7 @@
     "paldea": 276,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -8180,7 +8180,7 @@
     "paldea": 277,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -8202,8 +8202,8 @@
     "paldea": 278,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Flying"
   },
   {
     "id": 374,
@@ -8224,8 +8224,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 137,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Psychic"
   },
   {
     "id": 375,
@@ -8246,8 +8246,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 138,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Psychic"
   },
   {
     "id": 376,
@@ -8268,8 +8268,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 139,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Psychic"
   },
   {
     "id": 377,
@@ -8290,7 +8290,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -8312,7 +8312,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -8334,7 +8334,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Steel",
     "type2": null
   },
   {
@@ -8356,8 +8356,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Psychic"
   },
   {
     "id": 381,
@@ -8378,8 +8378,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Psychic"
   },
   {
     "id": 382,
@@ -8400,7 +8400,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -8422,7 +8422,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -8444,8 +8444,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Flying"
   },
   {
     "id": 385,
@@ -8466,8 +8466,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Psychic"
   },
   {
     "id": 386,
@@ -8488,7 +8488,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -8510,7 +8510,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 191,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -8532,7 +8532,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 192,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -8554,8 +8554,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 193,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Ground"
   },
   {
     "id": 390,
@@ -8576,7 +8576,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 194,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -8598,8 +8598,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 195,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Fighting"
   },
   {
     "id": 392,
@@ -8620,8 +8620,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 196,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Fighting"
   },
   {
     "id": 393,
@@ -8642,7 +8642,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 197,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -8664,7 +8664,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 198,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -8686,8 +8686,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 199,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Steel"
   },
   {
     "id": 396,
@@ -8708,8 +8708,8 @@
     "paldea": 97,
     "kitakami": 28,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 397,
@@ -8730,8 +8730,8 @@
     "paldea": 98,
     "kitakami": 29,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 398,
@@ -8752,8 +8752,8 @@
     "paldea": 99,
     "kitakami": 30,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 399,
@@ -8774,7 +8774,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -8796,8 +8796,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Water"
   },
   {
     "id": 401,
@@ -8818,7 +8818,7 @@
     "paldea": 33,
     "kitakami": 61,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -8840,7 +8840,7 @@
     "paldea": 34,
     "kitakami": 62,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -8862,7 +8862,7 @@
     "paldea": 94,
     "kitakami": 109,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -8884,7 +8884,7 @@
     "paldea": 95,
     "kitakami": 110,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -8906,7 +8906,7 @@
     "paldea": 96,
     "kitakami": 111,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -8928,8 +8928,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 407,
@@ -8950,8 +8950,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 408,
@@ -8972,7 +8972,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 107,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -8994,7 +8994,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 108,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -9016,8 +9016,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 109,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Steel"
   },
   {
     "id": 411,
@@ -9038,8 +9038,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 110,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Steel"
   },
   {
     "id": 412,
@@ -9060,7 +9060,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -9082,8 +9082,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Grass"
   },
   {
     "id": 414,
@@ -9104,8 +9104,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 415,
@@ -9126,8 +9126,8 @@
     "paldea": 38,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 416,
@@ -9148,8 +9148,8 @@
     "paldea": 39,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 417,
@@ -9170,7 +9170,7 @@
     "paldea": 201,
     "kitakami": 63,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -9192,7 +9192,7 @@
     "paldea": 51,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -9214,7 +9214,7 @@
     "paldea": 52,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -9236,7 +9236,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -9258,7 +9258,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -9280,7 +9280,7 @@
     "paldea": 327,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -9302,8 +9302,8 @@
     "paldea": 328,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ground"
   },
   {
     "id": 424,
@@ -9324,7 +9324,7 @@
     "paldea": null,
     "kitakami": 48,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -9346,8 +9346,8 @@
     "paldea": 143,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Flying"
   },
   {
     "id": 426,
@@ -9368,8 +9368,8 @@
     "paldea": 144,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Flying"
   },
   {
     "id": 427,
@@ -9390,7 +9390,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -9412,7 +9412,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -9434,7 +9434,7 @@
     "paldea": 115,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -9456,8 +9456,8 @@
     "paldea": 233,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Flying"
   },
   {
     "id": 431,
@@ -9478,7 +9478,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -9500,7 +9500,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -9522,7 +9522,7 @@
     "paldea": null,
     "kitakami": 142,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -9544,8 +9544,8 @@
     "paldea": 226,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Dark"
   },
   {
     "id": 435,
@@ -9566,8 +9566,8 @@
     "paldea": 227,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Dark"
   },
   {
     "id": 436,
@@ -9588,8 +9588,8 @@
     "paldea": 153,
     "kitakami": 154,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Psychic"
   },
   {
     "id": 437,
@@ -9610,8 +9610,8 @@
     "paldea": 154,
     "kitakami": 155,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Psychic"
   },
   {
     "id": 438,
@@ -9632,7 +9632,7 @@
     "paldea": 87,
     "kitakami": 83,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -9654,8 +9654,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Fairy"
   },
   {
     "id": 440,
@@ -9676,7 +9676,7 @@
     "paldea": 43,
     "kitakami": null,
     "blueberry": 16,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -9698,8 +9698,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 442,
@@ -9720,8 +9720,8 @@
     "paldea": 302,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Dark"
   },
   {
     "id": 443,
@@ -9742,8 +9742,8 @@
     "paldea": 126,
     "kitakami": 164,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ground"
   },
   {
     "id": 444,
@@ -9764,8 +9764,8 @@
     "paldea": 127,
     "kitakami": 165,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ground"
   },
   {
     "id": 445,
@@ -9786,8 +9786,8 @@
     "paldea": 128,
     "kitakami": 166,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ground"
   },
   {
     "id": 446,
@@ -9808,7 +9808,7 @@
     "paldea": null,
     "kitakami": 102,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -9830,7 +9830,7 @@
     "paldea": 163,
     "kitakami": 64,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -9852,8 +9852,8 @@
     "paldea": 164,
     "kitakami": 65,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Steel"
   },
   {
     "id": 449,
@@ -9874,7 +9874,7 @@
     "paldea": 265,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -9896,7 +9896,7 @@
     "paldea": 266,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -9918,8 +9918,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Bug"
   },
   {
     "id": 452,
@@ -9940,8 +9940,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Dark"
   },
   {
     "id": 453,
@@ -9962,8 +9962,8 @@
     "paldea": 175,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Fighting"
   },
   {
     "id": 454,
@@ -9984,8 +9984,8 @@
     "paldea": 176,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Fighting"
   },
   {
     "id": 455,
@@ -10006,7 +10006,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -10028,7 +10028,7 @@
     "paldea": 333,
     "kitakami": null,
     "blueberry": 83,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -10050,7 +10050,7 @@
     "paldea": 334,
     "kitakami": null,
     "blueberry": 84,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -10072,8 +10072,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Flying"
   },
   {
     "id": 459,
@@ -10094,8 +10094,8 @@
     "paldea": 352,
     "kitakami": null,
     "blueberry": 159,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Ice"
   },
   {
     "id": 460,
@@ -10116,8 +10116,8 @@
     "paldea": 353,
     "kitakami": null,
     "blueberry": 160,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Ice"
   },
   {
     "id": 461,
@@ -10138,8 +10138,8 @@
     "paldea": 231,
     "kitakami": 171,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Ice"
   },
   {
     "id": 462,
@@ -10160,8 +10160,8 @@
     "paldea": 211,
     "kitakami": null,
     "blueberry": 118,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Steel"
   },
   {
     "id": 463,
@@ -10182,7 +10182,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -10204,8 +10204,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 7,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Rock"
   },
   {
     "id": 465,
@@ -10226,7 +10226,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -10248,7 +10248,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 12,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -10270,7 +10270,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 15,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -10292,8 +10292,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fairy",
+    "type2": "Flying"
   },
   {
     "id": 469,
@@ -10314,8 +10314,8 @@
     "paldea": null,
     "kitakami": 4,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 470,
@@ -10336,7 +10336,7 @@
     "paldea": 185,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -10358,7 +10358,7 @@
     "paldea": 186,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -10380,8 +10380,8 @@
     "paldea": null,
     "kitakami": 122,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Flying"
   },
   {
     "id": 473,
@@ -10402,8 +10402,8 @@
     "paldea": null,
     "kitakami": 52,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Ground"
   },
   {
     "id": 474,
@@ -10424,7 +10424,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 131,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -10446,8 +10446,8 @@
     "paldea": 65,
     "kitakami": 60,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Fighting"
   },
   {
     "id": 476,
@@ -10468,8 +10468,8 @@
     "paldea": null,
     "kitakami": 108,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Steel"
   },
   {
     "id": 477,
@@ -10490,7 +10490,7 @@
     "paldea": null,
     "kitakami": 141,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -10512,8 +10512,8 @@
     "paldea": 359,
     "kitakami": 174,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Ghost"
   },
   {
     "id": 479,
@@ -10534,8 +10534,8 @@
     "paldea": 310,
     "kitakami": null,
     "blueberry": 41,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Ghost"
   },
   {
     "id": 480,
@@ -10556,7 +10556,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -10578,7 +10578,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -10600,7 +10600,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -10622,8 +10622,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Dragon"
   },
   {
     "id": 484,
@@ -10644,8 +10644,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Dragon"
   },
   {
     "id": 485,
@@ -10666,8 +10666,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Steel"
   },
   {
     "id": 486,
@@ -10688,7 +10688,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -10710,8 +10710,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Dragon"
   },
   {
     "id": 488,
@@ -10732,7 +10732,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -10754,7 +10754,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -10776,7 +10776,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -10798,7 +10798,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -10820,7 +10820,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -10842,7 +10842,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -10864,8 +10864,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Fire"
   },
   {
     "id": 495,
@@ -10886,7 +10886,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 200,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -10908,7 +10908,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 201,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -10930,7 +10930,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 202,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -10952,7 +10952,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 203,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -10974,8 +10974,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 204,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Fighting"
   },
   {
     "id": 500,
@@ -10996,8 +10996,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 205,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Fighting"
   },
   {
     "id": 501,
@@ -11018,7 +11018,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 206,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -11040,7 +11040,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 207,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -11062,7 +11062,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 208,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -11084,7 +11084,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -11106,7 +11106,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -11128,7 +11128,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -11150,7 +11150,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -11172,7 +11172,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -11194,7 +11194,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -11216,7 +11216,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -11238,7 +11238,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -11260,7 +11260,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -11282,7 +11282,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -11304,7 +11304,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -11326,7 +11326,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -11348,7 +11348,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -11370,7 +11370,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -11392,7 +11392,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -11414,8 +11414,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 520,
@@ -11436,8 +11436,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 521,
@@ -11458,8 +11458,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 522,
@@ -11480,7 +11480,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 23,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -11502,7 +11502,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 24,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -11524,7 +11524,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -11546,7 +11546,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -11568,7 +11568,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -11590,8 +11590,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Flying"
   },
   {
     "id": 528,
@@ -11612,8 +11612,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Flying"
   },
   {
     "id": 529,
@@ -11634,7 +11634,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 99,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -11656,8 +11656,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 100,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Steel"
   },
   {
     "id": 531,
@@ -11678,7 +11678,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -11700,7 +11700,7 @@
     "paldea": null,
     "kitakami": 85,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -11722,7 +11722,7 @@
     "paldea": null,
     "kitakami": 86,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -11744,7 +11744,7 @@
     "paldea": null,
     "kitakami": 87,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -11766,7 +11766,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -11788,8 +11788,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ground"
   },
   {
     "id": 537,
@@ -11810,8 +11810,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ground"
   },
   {
     "id": 538,
@@ -11832,7 +11832,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -11854,7 +11854,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -11876,8 +11876,8 @@
     "paldea": null,
     "kitakami": 13,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Grass"
   },
   {
     "id": 541,
@@ -11898,8 +11898,8 @@
     "paldea": null,
     "kitakami": 14,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Grass"
   },
   {
     "id": 542,
@@ -11920,8 +11920,8 @@
     "paldea": null,
     "kitakami": 15,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Grass"
   },
   {
     "id": 543,
@@ -11942,8 +11942,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 544,
@@ -11964,8 +11964,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 545,
@@ -11986,8 +11986,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Poison"
   },
   {
     "id": 546,
@@ -12008,8 +12008,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 56,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Fairy"
   },
   {
     "id": 547,
@@ -12030,8 +12030,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 57,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Fairy"
   },
   {
     "id": 548,
@@ -12052,7 +12052,7 @@
     "paldea": 104,
     "kitakami": 66,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -12074,7 +12074,7 @@
     "paldea": 105,
     "kitakami": 67,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -12096,7 +12096,7 @@
     "paldea": 138,
     "kitakami": 194,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -12118,8 +12118,8 @@
     "paldea": 267,
     "kitakami": null,
     "blueberry": 27,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Dark"
   },
   {
     "id": 552,
@@ -12140,8 +12140,8 @@
     "paldea": 268,
     "kitakami": null,
     "blueberry": 28,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Dark"
   },
   {
     "id": 553,
@@ -12162,8 +12162,8 @@
     "paldea": 269,
     "kitakami": null,
     "blueberry": 29,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Dark"
   },
   {
     "id": 554,
@@ -12184,7 +12184,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -12206,7 +12206,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -12228,7 +12228,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -12250,8 +12250,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Rock"
   },
   {
     "id": 558,
@@ -12272,8 +12272,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Rock"
   },
   {
     "id": 559,
@@ -12294,8 +12294,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 121,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Fighting"
   },
   {
     "id": 560,
@@ -12316,8 +12316,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 122,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Fighting"
   },
   {
     "id": 561,
@@ -12338,8 +12338,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Flying"
   },
   {
     "id": 562,
@@ -12360,7 +12360,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -12382,7 +12382,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -12404,8 +12404,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Rock"
   },
   {
     "id": 565,
@@ -12426,8 +12426,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Rock"
   },
   {
     "id": 566,
@@ -12448,8 +12448,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Flying"
   },
   {
     "id": 567,
@@ -12470,8 +12470,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Flying"
   },
   {
     "id": 568,
@@ -12492,7 +12492,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -12514,7 +12514,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -12536,7 +12536,7 @@
     "paldea": 228,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -12558,7 +12558,7 @@
     "paldea": 229,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -12580,7 +12580,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 111,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -12602,7 +12602,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 112,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -12624,7 +12624,7 @@
     "paldea": 234,
     "kitakami": null,
     "blueberry": 101,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -12646,7 +12646,7 @@
     "paldea": 235,
     "kitakami": null,
     "blueberry": 102,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -12668,7 +12668,7 @@
     "paldea": 236,
     "kitakami": null,
     "blueberry": 103,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -12690,7 +12690,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 148,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -12712,7 +12712,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 149,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -12734,7 +12734,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 150,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -12756,8 +12756,8 @@
     "paldea": null,
     "kitakami": 181,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Flying"
   },
   {
     "id": 581,
@@ -12778,8 +12778,8 @@
     "paldea": null,
     "kitakami": 182,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Flying"
   },
   {
     "id": 582,
@@ -12800,7 +12800,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -12822,7 +12822,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -12844,7 +12844,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -12866,8 +12866,8 @@
     "paldea": 190,
     "kitakami": null,
     "blueberry": 38,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Grass"
   },
   {
     "id": 586,
@@ -12888,8 +12888,8 @@
     "paldea": 191,
     "kitakami": null,
     "blueberry": 39,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Grass"
   },
   {
     "id": 587,
@@ -12910,8 +12910,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Flying"
   },
   {
     "id": 588,
@@ -12932,7 +12932,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -12954,8 +12954,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Steel"
   },
   {
     "id": 590,
@@ -12976,8 +12976,8 @@
     "paldea": 205,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 591,
@@ -12998,8 +12998,8 @@
     "paldea": 206,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Poison"
   },
   {
     "id": 592,
@@ -13020,8 +13020,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ghost"
   },
   {
     "id": 593,
@@ -13042,8 +13042,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ghost"
   },
   {
     "id": 594,
@@ -13064,7 +13064,7 @@
     "paldea": 336,
     "kitakami": null,
     "blueberry": 85,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -13086,8 +13086,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 132,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Electric"
   },
   {
     "id": 596,
@@ -13108,8 +13108,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 133,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Electric"
   },
   {
     "id": 597,
@@ -13130,8 +13130,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Steel"
   },
   {
     "id": 598,
@@ -13152,8 +13152,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Steel"
   },
   {
     "id": 599,
@@ -13174,7 +13174,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Steel",
     "type2": null
   },
   {
@@ -13196,7 +13196,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Steel",
     "type2": null
   },
   {
@@ -13218,7 +13218,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Steel",
     "type2": null
   },
   {
@@ -13240,7 +13240,7 @@
     "paldea": 341,
     "kitakami": 175,
     "blueberry": 134,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -13262,7 +13262,7 @@
     "paldea": 342,
     "kitakami": 176,
     "blueberry": 135,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -13284,7 +13284,7 @@
     "paldea": 343,
     "kitakami": 177,
     "blueberry": 136,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -13306,7 +13306,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -13328,7 +13328,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -13350,8 +13350,8 @@
     "paldea": null,
     "kitakami": 146,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Fire"
   },
   {
     "id": 608,
@@ -13372,8 +13372,8 @@
     "paldea": null,
     "kitakami": 147,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Fire"
   },
   {
     "id": 609,
@@ -13394,8 +13394,8 @@
     "paldea": null,
     "kitakami": 148,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Fire"
   },
   {
     "id": 610,
@@ -13416,7 +13416,7 @@
     "paldea": 155,
     "kitakami": null,
     "blueberry": 140,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -13438,7 +13438,7 @@
     "paldea": 156,
     "kitakami": null,
     "blueberry": 141,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -13460,7 +13460,7 @@
     "paldea": 157,
     "kitakami": null,
     "blueberry": 142,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -13482,7 +13482,7 @@
     "paldea": 355,
     "kitakami": null,
     "blueberry": 153,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -13504,7 +13504,7 @@
     "paldea": 356,
     "kitakami": null,
     "blueberry": 154,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -13526,7 +13526,7 @@
     "paldea": 360,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -13548,7 +13548,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -13570,7 +13570,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -13592,8 +13592,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Electric"
   },
   {
     "id": 619,
@@ -13614,7 +13614,7 @@
     "paldea": null,
     "kitakami": 137,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -13636,7 +13636,7 @@
     "paldea": null,
     "kitakami": 138,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -13658,7 +13658,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -13680,8 +13680,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 123,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Ghost"
   },
   {
     "id": 623,
@@ -13702,8 +13702,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 124,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Ghost"
   },
   {
     "id": 624,
@@ -13724,8 +13724,8 @@
     "paldea": 367,
     "kitakami": 186,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Steel"
   },
   {
     "id": 625,
@@ -13746,8 +13746,8 @@
     "paldea": 368,
     "kitakami": 187,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Steel"
   },
   {
     "id": 626,
@@ -13768,7 +13768,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -13790,8 +13790,8 @@
     "paldea": 365,
     "kitakami": null,
     "blueberry": 32,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 628,
@@ -13812,8 +13812,8 @@
     "paldea": 366,
     "kitakami": null,
     "blueberry": 33,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 629,
@@ -13834,8 +13834,8 @@
     "paldea": null,
     "kitakami": 127,
     "blueberry": 34,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Flying"
   },
   {
     "id": 630,
@@ -13856,8 +13856,8 @@
     "paldea": null,
     "kitakami": 128,
     "blueberry": 35,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Flying"
   },
   {
     "id": 631,
@@ -13878,7 +13878,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -13900,8 +13900,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Steel"
   },
   {
     "id": 633,
@@ -13922,8 +13922,8 @@
     "paldea": 370,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Dragon"
   },
   {
     "id": 634,
@@ -13944,8 +13944,8 @@
     "paldea": 371,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Dragon"
   },
   {
     "id": 635,
@@ -13966,8 +13966,8 @@
     "paldea": 372,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Dragon"
   },
   {
     "id": 636,
@@ -13988,8 +13988,8 @@
     "paldea": 274,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Fire"
   },
   {
     "id": 637,
@@ -14010,8 +14010,8 @@
     "paldea": 275,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Fire"
   },
   {
     "id": 638,
@@ -14032,8 +14032,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Fighting"
   },
   {
     "id": 639,
@@ -14054,8 +14054,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Fighting"
   },
   {
     "id": 640,
@@ -14076,8 +14076,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Fighting"
   },
   {
     "id": 641,
@@ -14098,7 +14098,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Flying",
     "type2": null
   },
   {
@@ -14120,8 +14120,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Flying"
   },
   {
     "id": 643,
@@ -14142,8 +14142,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Fire"
   },
   {
     "id": 644,
@@ -14164,8 +14164,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Electric"
   },
   {
     "id": 645,
@@ -14186,8 +14186,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Flying"
   },
   {
     "id": 646,
@@ -14208,8 +14208,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ice"
   },
   {
     "id": 647,
@@ -14230,8 +14230,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Fighting"
   },
   {
     "id": 648,
@@ -14252,8 +14252,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Psychic"
   },
   {
     "id": 649,
@@ -14274,8 +14274,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Steel"
   },
   {
     "id": 650,
@@ -14296,7 +14296,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 209,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -14318,7 +14318,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 210,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -14340,8 +14340,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 211,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Fighting"
   },
   {
     "id": 653,
@@ -14362,7 +14362,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 212,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -14384,7 +14384,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 213,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -14406,8 +14406,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 214,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Psychic"
   },
   {
     "id": 656,
@@ -14428,7 +14428,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 215,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -14450,7 +14450,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 216,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -14472,8 +14472,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 217,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Dark"
   },
   {
     "id": 659,
@@ -14494,7 +14494,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -14516,8 +14516,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Ground"
   },
   {
     "id": 661,
@@ -14538,8 +14538,8 @@
     "paldea": 19,
     "kitakami": null,
     "blueberry": 87,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 662,
@@ -14560,8 +14560,8 @@
     "paldea": 20,
     "kitakami": null,
     "blueberry": 88,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Flying"
   },
   {
     "id": 663,
@@ -14582,8 +14582,8 @@
     "paldea": 21,
     "kitakami": null,
     "blueberry": 89,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Flying"
   },
   {
     "id": 664,
@@ -14604,7 +14604,7 @@
     "paldea": 35,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -14626,7 +14626,7 @@
     "paldea": 36,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -14648,8 +14648,8 @@
     "paldea": 37,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Flying"
   },
   {
     "id": 667,
@@ -14670,8 +14670,8 @@
     "paldea": 224,
     "kitakami": null,
     "blueberry": 36,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Normal"
   },
   {
     "id": 668,
@@ -14692,8 +14692,8 @@
     "paldea": 225,
     "kitakami": null,
     "blueberry": 37,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Normal"
   },
   {
     "id": 669,
@@ -14714,7 +14714,7 @@
     "paldea": 145,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -14736,7 +14736,7 @@
     "paldea": 146,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -14758,7 +14758,7 @@
     "paldea": 147,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -14780,7 +14780,7 @@
     "paldea": 221,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -14802,7 +14802,7 @@
     "paldea": 222,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -14824,7 +14824,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -14846,8 +14846,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Dark"
   },
   {
     "id": 676,
@@ -14868,7 +14868,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -14890,7 +14890,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 104,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -14912,7 +14912,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 105,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -14934,8 +14934,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Ghost"
   },
   {
     "id": 680,
@@ -14956,8 +14956,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Ghost"
   },
   {
     "id": 681,
@@ -14978,8 +14978,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Ghost"
   },
   {
     "id": 682,
@@ -15000,7 +15000,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -15022,7 +15022,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -15044,7 +15044,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -15066,7 +15066,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -15088,8 +15088,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 80,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Psychic"
   },
   {
     "id": 687,
@@ -15110,8 +15110,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 81,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Psychic"
   },
   {
     "id": 688,
@@ -15132,8 +15132,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Water"
   },
   {
     "id": 689,
@@ -15154,8 +15154,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Water"
   },
   {
     "id": 690,
@@ -15176,8 +15176,8 @@
     "paldea": 337,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Water"
   },
   {
     "id": 691,
@@ -15198,8 +15198,8 @@
     "paldea": 338,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Dragon"
   },
   {
     "id": 692,
@@ -15220,7 +15220,7 @@
     "paldea": 339,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -15242,7 +15242,7 @@
     "paldea": 340,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -15264,8 +15264,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Normal"
   },
   {
     "id": 695,
@@ -15286,8 +15286,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Normal"
   },
   {
     "id": 696,
@@ -15308,8 +15308,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Dragon"
   },
   {
     "id": 697,
@@ -15330,8 +15330,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Dragon"
   },
   {
     "id": 698,
@@ -15352,8 +15352,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Ice"
   },
   {
     "id": 699,
@@ -15374,8 +15374,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Ice"
   },
   {
     "id": 700,
@@ -15396,7 +15396,7 @@
     "paldea": 187,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -15418,8 +15418,8 @@
     "paldea": 301,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Flying"
   },
   {
     "id": 702,
@@ -15440,8 +15440,8 @@
     "paldea": 200,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Fairy"
   },
   {
     "id": 703,
@@ -15462,8 +15462,8 @@
     "paldea": null,
     "kitakami": 167,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Fairy"
   },
   {
     "id": 704,
@@ -15484,7 +15484,7 @@
     "paldea": 172,
     "kitakami": 178,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -15506,7 +15506,7 @@
     "paldea": 173,
     "kitakami": 179,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -15528,7 +15528,7 @@
     "paldea": 174,
     "kitakami": 180,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -15550,8 +15550,8 @@
     "paldea": 240,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Fairy"
   },
   {
     "id": 708,
@@ -15572,8 +15572,8 @@
     "paldea": null,
     "kitakami": 68,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Grass"
   },
   {
     "id": 709,
@@ -15594,8 +15594,8 @@
     "paldea": null,
     "kitakami": 69,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Grass"
   },
   {
     "id": 710,
@@ -15616,8 +15616,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Grass"
   },
   {
     "id": 711,
@@ -15638,8 +15638,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Grass"
   },
   {
     "id": 712,
@@ -15660,7 +15660,7 @@
     "paldea": 363,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -15682,7 +15682,7 @@
     "paldea": 364,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -15704,8 +15704,8 @@
     "paldea": 303,
     "kitakami": 88,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Flying",
+    "type2": "Dragon"
   },
   {
     "id": 715,
@@ -15726,8 +15726,8 @@
     "paldea": 304,
     "kitakami": 89,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Flying",
+    "type2": "Dragon"
   },
   {
     "id": 716,
@@ -15748,7 +15748,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -15770,8 +15770,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Flying"
   },
   {
     "id": 718,
@@ -15792,8 +15792,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ground"
   },
   {
     "id": 719,
@@ -15814,8 +15814,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Fairy"
   },
   {
     "id": 720,
@@ -15836,8 +15836,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Ghost"
   },
   {
     "id": 721,
@@ -15858,8 +15858,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Water"
   },
   {
     "id": 722,
@@ -15880,8 +15880,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 218,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Flying"
   },
   {
     "id": 723,
@@ -15902,8 +15902,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 219,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Flying"
   },
   {
     "id": 724,
@@ -15924,8 +15924,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 220,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Ghost"
   },
   {
     "id": 725,
@@ -15946,7 +15946,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 221,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -15968,7 +15968,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 222,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -15990,8 +15990,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 223,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Dark"
   },
   {
     "id": 728,
@@ -16012,7 +16012,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 224,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -16034,7 +16034,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 225,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -16056,8 +16056,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 226,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Fairy"
   },
   {
     "id": 731,
@@ -16078,8 +16078,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 47,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 732,
@@ -16100,8 +16100,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 48,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 733,
@@ -16122,8 +16122,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 49,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 734,
@@ -16144,7 +16144,7 @@
     "paldea": 27,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -16166,7 +16166,7 @@
     "paldea": 28,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -16188,7 +16188,7 @@
     "paldea": null,
     "kitakami": 112,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -16210,8 +16210,8 @@
     "paldea": null,
     "kitakami": 113,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Electric"
   },
   {
     "id": 738,
@@ -16232,8 +16232,8 @@
     "paldea": null,
     "kitakami": 114,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Electric"
   },
   {
     "id": 739,
@@ -16254,7 +16254,7 @@
     "paldea": 118,
     "kitakami": null,
     "blueberry": 72,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -16276,8 +16276,8 @@
     "paldea": 119,
     "kitakami": null,
     "blueberry": 73,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Ice"
   },
   {
     "id": 741,
@@ -16298,8 +16298,8 @@
     "paldea": 100,
     "kitakami": 115,
     "blueberry": 74,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Flying"
   },
   {
     "id": 742,
@@ -16320,8 +16320,8 @@
     "paldea": null,
     "kitakami": 16,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Fairy"
   },
   {
     "id": 743,
@@ -16342,8 +16342,8 @@
     "paldea": null,
     "kitakami": 17,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Fairy"
   },
   {
     "id": 744,
@@ -16364,7 +16364,7 @@
     "paldea": 89,
     "kitakami": 70,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -16386,7 +16386,7 @@
     "paldea": 90,
     "kitakami": 71,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -16408,7 +16408,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -16430,8 +16430,8 @@
     "paldea": 344,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Water"
   },
   {
     "id": 748,
@@ -16452,8 +16452,8 @@
     "paldea": 345,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Water"
   },
   {
     "id": 749,
@@ -16474,7 +16474,7 @@
     "paldea": 272,
     "kitakami": 129,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -16496,7 +16496,7 @@
     "paldea": 273,
     "kitakami": 130,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -16518,8 +16518,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 90,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Bug"
   },
   {
     "id": 752,
@@ -16540,8 +16540,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 91,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Bug"
   },
   {
     "id": 753,
@@ -16562,7 +16562,7 @@
     "paldea": 247,
     "kitakami": 31,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -16584,7 +16584,7 @@
     "paldea": 248,
     "kitakami": 32,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -16606,8 +16606,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Fairy"
   },
   {
     "id": 756,
@@ -16628,8 +16628,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Fairy"
   },
   {
     "id": 757,
@@ -16650,8 +16650,8 @@
     "paldea": 120,
     "kitakami": 168,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Fire"
   },
   {
     "id": 758,
@@ -16672,8 +16672,8 @@
     "paldea": 121,
     "kitakami": 169,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Fire"
   },
   {
     "id": 759,
@@ -16694,8 +16694,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Fighting"
   },
   {
     "id": 760,
@@ -16716,8 +16716,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Fighting"
   },
   {
     "id": 761,
@@ -16738,7 +16738,7 @@
     "paldea": 81,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -16760,7 +16760,7 @@
     "paldea": 82,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -16782,7 +16782,7 @@
     "paldea": 83,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -16804,7 +16804,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 58,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -16826,8 +16826,8 @@
     "paldea": 313,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Psychic"
   },
   {
     "id": 766,
@@ -16848,7 +16848,7 @@
     "paldea": 314,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -16870,8 +16870,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Water"
   },
   {
     "id": 768,
@@ -16892,8 +16892,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Water"
   },
   {
     "id": 769,
@@ -16914,8 +16914,8 @@
     "paldea": 322,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Ground"
   },
   {
     "id": 770,
@@ -16936,8 +16936,8 @@
     "paldea": 323,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Ground"
   },
   {
     "id": 771,
@@ -16958,7 +16958,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -16980,7 +16980,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -17002,7 +17002,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -17024,8 +17024,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 106,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Flying"
   },
   {
     "id": 775,
@@ -17046,7 +17046,7 @@
     "paldea": 315,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -17068,8 +17068,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Dragon"
   },
   {
     "id": 777,
@@ -17090,8 +17090,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Steel"
   },
   {
     "id": 778,
@@ -17112,8 +17112,8 @@
     "paldea": 239,
     "kitakami": 189,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Fairy"
   },
   {
     "id": 779,
@@ -17134,8 +17134,8 @@
     "paldea": 335,
     "kitakami": null,
     "blueberry": 55,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Psychic"
   },
   {
     "id": 780,
@@ -17156,8 +17156,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Dragon"
   },
   {
     "id": 781,
@@ -17178,8 +17178,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Grass"
   },
   {
     "id": 782,
@@ -17200,7 +17200,7 @@
     "paldea": null,
     "kitakami": 131,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -17222,8 +17222,8 @@
     "paldea": null,
     "kitakami": 132,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Fighting"
   },
   {
     "id": 784,
@@ -17244,8 +17244,8 @@
     "paldea": null,
     "kitakami": 133,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Fighting"
   },
   {
     "id": 785,
@@ -17266,8 +17266,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Fairy"
   },
   {
     "id": 786,
@@ -17288,8 +17288,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Fairy"
   },
   {
     "id": 787,
@@ -17310,8 +17310,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Fairy"
   },
   {
     "id": 788,
@@ -17332,8 +17332,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Fairy"
   },
   {
     "id": 789,
@@ -17354,7 +17354,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -17376,7 +17376,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -17398,8 +17398,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Steel"
   },
   {
     "id": 792,
@@ -17420,8 +17420,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Ghost"
   },
   {
     "id": 793,
@@ -17442,8 +17442,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Poison"
   },
   {
     "id": 794,
@@ -17464,8 +17464,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Fighting"
   },
   {
     "id": 795,
@@ -17486,8 +17486,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Fighting"
   },
   {
     "id": 796,
@@ -17508,7 +17508,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -17530,8 +17530,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Flying"
   },
   {
     "id": 798,
@@ -17552,8 +17552,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Steel"
   },
   {
     "id": 799,
@@ -17574,8 +17574,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Dragon"
   },
   {
     "id": 800,
@@ -17596,7 +17596,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -17618,8 +17618,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Fairy"
   },
   {
     "id": 802,
@@ -17640,8 +17640,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Ghost"
   },
   {
     "id": 803,
@@ -17662,7 +17662,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Poison",
     "type2": null
   },
   {
@@ -17684,8 +17684,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Dragon"
   },
   {
     "id": 805,
@@ -17706,8 +17706,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Steel"
   },
   {
     "id": 806,
@@ -17728,8 +17728,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Ghost"
   },
   {
     "id": 807,
@@ -17750,7 +17750,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -17772,7 +17772,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Steel",
     "type2": null
   },
   {
@@ -17794,7 +17794,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Steel",
     "type2": null
   },
   {
@@ -17816,7 +17816,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 227,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -17838,7 +17838,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 228,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -17860,7 +17860,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 229,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -17882,7 +17882,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 230,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -17904,7 +17904,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 231,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -17926,7 +17926,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 232,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -17948,7 +17948,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 233,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -17970,7 +17970,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 234,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -17992,7 +17992,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 235,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -18014,7 +18014,7 @@
     "paldea": 29,
     "kitakami": 72,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -18036,7 +18036,7 @@
     "paldea": 30,
     "kitakami": 73,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -18058,7 +18058,7 @@
     "paldea": 40,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Flying",
     "type2": null
   },
   {
@@ -18080,7 +18080,7 @@
     "paldea": 41,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Flying",
     "type2": null
   },
   {
@@ -18102,8 +18102,8 @@
     "paldea": 42,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Flying",
+    "type2": "Steel"
   },
   {
     "id": 824,
@@ -18124,7 +18124,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -18146,8 +18146,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Psychic"
   },
   {
     "id": 826,
@@ -18168,8 +18168,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Psychic"
   },
   {
     "id": 827,
@@ -18190,7 +18190,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -18212,7 +18212,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -18234,7 +18234,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -18256,7 +18256,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -18278,7 +18278,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -18300,7 +18300,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -18322,7 +18322,7 @@
     "paldea": 57,
     "kitakami": 183,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -18344,8 +18344,8 @@
     "paldea": 58,
     "kitakami": 184,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Rock"
   },
   {
     "id": 835,
@@ -18366,7 +18366,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -18388,7 +18388,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -18410,7 +18410,7 @@
     "paldea": 91,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -18432,8 +18432,8 @@
     "paldea": 92,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Fire"
   },
   {
     "id": 839,
@@ -18454,8 +18454,8 @@
     "paldea": 93,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Fire"
   },
   {
     "id": 840,
@@ -18476,8 +18476,8 @@
     "paldea": 108,
     "kitakami": 33,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Dragon"
   },
   {
     "id": 841,
@@ -18498,8 +18498,8 @@
     "paldea": 109,
     "kitakami": 34,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Dragon"
   },
   {
     "id": 842,
@@ -18520,8 +18520,8 @@
     "paldea": 110,
     "kitakami": 35,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Dragon"
   },
   {
     "id": 843,
@@ -18542,7 +18542,7 @@
     "paldea": 270,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -18564,7 +18564,7 @@
     "paldea": 271,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ground",
     "type2": null
   },
   {
@@ -18586,8 +18586,8 @@
     "paldea": null,
     "kitakami": 185,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Flying",
+    "type2": "Water"
   },
   {
     "id": 846,
@@ -18608,7 +18608,7 @@
     "paldea": 136,
     "kitakami": 90,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -18630,7 +18630,7 @@
     "paldea": 137,
     "kitakami": 91,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -18652,8 +18652,8 @@
     "paldea": 198,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Poison"
   },
   {
     "id": 849,
@@ -18674,8 +18674,8 @@
     "paldea": 199,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Poison"
   },
   {
     "id": 850,
@@ -18696,8 +18696,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Bug"
   },
   {
     "id": 851,
@@ -18718,8 +18718,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Bug"
   },
   {
     "id": 852,
@@ -18740,7 +18740,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -18762,7 +18762,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -18784,7 +18784,7 @@
     "paldea": 237,
     "kitakami": null,
     "blueberry": 127,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -18806,7 +18806,7 @@
     "paldea": 238,
     "kitakami": null,
     "blueberry": 128,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -18828,7 +18828,7 @@
     "paldea": 282,
     "kitakami": 92,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -18850,7 +18850,7 @@
     "paldea": 283,
     "kitakami": 93,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -18872,8 +18872,8 @@
     "paldea": 284,
     "kitakami": 94,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Fairy"
   },
   {
     "id": 859,
@@ -18894,8 +18894,8 @@
     "paldea": 285,
     "kitakami": 190,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Fairy"
   },
   {
     "id": 860,
@@ -18916,8 +18916,8 @@
     "paldea": 286,
     "kitakami": 191,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Fairy"
   },
   {
     "id": 861,
@@ -18938,8 +18938,8 @@
     "paldea": 287,
     "kitakami": 192,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Fairy"
   },
   {
     "id": 862,
@@ -18960,8 +18960,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Normal"
   },
   {
     "id": 863,
@@ -18982,7 +18982,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Steel",
     "type2": null
   },
   {
@@ -19004,7 +19004,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -19026,7 +19026,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -19048,8 +19048,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Psychic"
   },
   {
     "id": 867,
@@ -19070,8 +19070,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Ghost"
   },
   {
     "id": 868,
@@ -19092,7 +19092,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 42,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -19114,7 +19114,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 43,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -19136,7 +19136,7 @@
     "paldea": 300,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -19158,7 +19158,7 @@
     "paldea": 321,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -19180,8 +19180,8 @@
     "paldea": 350,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Bug"
   },
   {
     "id": 873,
@@ -19202,8 +19202,8 @@
     "paldea": 351,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Bug"
   },
   {
     "id": 874,
@@ -19224,7 +19224,7 @@
     "paldea": 319,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -19246,7 +19246,7 @@
     "paldea": 320,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -19268,8 +19268,8 @@
     "paldea": 241,
     "kitakami": 193,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Normal"
   },
   {
     "id": 877,
@@ -19290,8 +19290,8 @@
     "paldea": null,
     "kitakami": 95,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Dark"
   },
   {
     "id": 878,
@@ -19312,7 +19312,7 @@
     "paldea": 124,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Steel",
     "type2": null
   },
   {
@@ -19334,7 +19334,7 @@
     "paldea": 125,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Steel",
     "type2": null
   },
   {
@@ -19356,8 +19356,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Dragon"
   },
   {
     "id": 881,
@@ -19378,8 +19378,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Ice"
   },
   {
     "id": 882,
@@ -19400,8 +19400,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Dragon"
   },
   {
     "id": 883,
@@ -19422,8 +19422,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ice"
   },
   {
     "id": 884,
@@ -19444,8 +19444,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 161,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Dragon"
   },
   {
     "id": 885,
@@ -19466,8 +19466,8 @@
     "paldea": 305,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ghost"
   },
   {
     "id": 886,
@@ -19488,8 +19488,8 @@
     "paldea": 306,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ghost"
   },
   {
     "id": 887,
@@ -19510,8 +19510,8 @@
     "paldea": 307,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ghost"
   },
   {
     "id": 888,
@@ -19532,7 +19532,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -19554,7 +19554,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -19576,8 +19576,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Dragon"
   },
   {
     "id": 891,
@@ -19598,7 +19598,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fighting",
     "type2": null
   },
   {
@@ -19620,8 +19620,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Dark"
   },
   {
     "id": 893,
@@ -19642,8 +19642,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Grass"
   },
   {
     "id": 894,
@@ -19664,7 +19664,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -19686,7 +19686,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dragon",
     "type2": null
   },
   {
@@ -19708,7 +19708,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -19730,7 +19730,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -19752,8 +19752,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Psychic",
+    "type2": "Grass"
   },
   {
     "id": 899,
@@ -19774,8 +19774,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Psychic"
   },
   {
     "id": 900,
@@ -19796,8 +19796,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 21,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Rock"
   },
   {
     "id": 901,
@@ -19818,8 +19818,8 @@
     "paldea": null,
     "kitakami": 196,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Normal"
   },
   {
     "id": 902,
@@ -19840,8 +19840,8 @@
     "paldea": null,
     "kitakami": 195,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Ghost"
   },
   {
     "id": 903,
@@ -19862,8 +19862,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Poison"
   },
   {
     "id": 904,
@@ -19884,8 +19884,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 147,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Poison"
   },
   {
     "id": 905,
@@ -19906,8 +19906,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fairy",
+    "type2": "Flying"
   },
   {
     "id": 906,
@@ -19928,7 +19928,7 @@
     "paldea": 1,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -19950,7 +19950,7 @@
     "paldea": 2,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -19972,8 +19972,8 @@
     "paldea": 3,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Dark"
   },
   {
     "id": 909,
@@ -19994,7 +19994,7 @@
     "paldea": 4,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -20016,7 +20016,7 @@
     "paldea": 5,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -20038,8 +20038,8 @@
     "paldea": 6,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Ghost"
   },
   {
     "id": 912,
@@ -20060,7 +20060,7 @@
     "paldea": 7,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -20082,7 +20082,7 @@
     "paldea": 8,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -20104,8 +20104,8 @@
     "paldea": 9,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Fighting"
   },
   {
     "id": 915,
@@ -20126,7 +20126,7 @@
     "paldea": 10,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -20148,7 +20148,7 @@
     "paldea": 11,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -20170,7 +20170,7 @@
     "paldea": 12,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -20192,7 +20192,7 @@
     "paldea": 13,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -20214,7 +20214,7 @@
     "paldea": 14,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -20236,8 +20236,8 @@
     "paldea": 15,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Dark"
   },
   {
     "id": 921,
@@ -20258,7 +20258,7 @@
     "paldea": 22,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -20280,8 +20280,8 @@
     "paldea": 23,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Fighting"
   },
   {
     "id": 923,
@@ -20302,8 +20302,8 @@
     "paldea": 24,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Fighting"
   },
   {
     "id": 924,
@@ -20324,7 +20324,7 @@
     "paldea": 71,
     "kitakami": 97,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -20346,7 +20346,7 @@
     "paldea": 72,
     "kitakami": 98,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -20368,7 +20368,7 @@
     "paldea": 76,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -20390,7 +20390,7 @@
     "paldea": 77,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fairy",
     "type2": null
   },
   {
@@ -20412,8 +20412,8 @@
     "paldea": 84,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Normal"
   },
   {
     "id": 929,
@@ -20434,8 +20434,8 @@
     "paldea": 85,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Normal"
   },
   {
     "id": 930,
@@ -20456,8 +20456,8 @@
     "paldea": 86,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Normal"
   },
   {
     "id": 931,
@@ -20478,8 +20478,8 @@
     "paldea": 113,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Flying"
   },
   {
     "id": 932,
@@ -20500,7 +20500,7 @@
     "paldea": 129,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -20522,7 +20522,7 @@
     "paldea": 130,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -20544,7 +20544,7 @@
     "paldea": 131,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -20566,7 +20566,7 @@
     "paldea": 165,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Fire",
     "type2": null
   },
   {
@@ -20588,8 +20588,8 @@
     "paldea": 166,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Psychic"
   },
   {
     "id": 937,
@@ -20610,8 +20610,8 @@
     "paldea": 167,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Ghost"
   },
   {
     "id": 938,
@@ -20632,7 +20632,7 @@
     "paldea": 170,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -20654,7 +20654,7 @@
     "paldea": 171,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Electric",
     "type2": null
   },
   {
@@ -20676,8 +20676,8 @@
     "paldea": 177,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Flying"
   },
   {
     "id": 941,
@@ -20698,8 +20698,8 @@
     "paldea": 178,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Flying"
   },
   {
     "id": 942,
@@ -20720,7 +20720,7 @@
     "paldea": 196,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -20742,7 +20742,7 @@
     "paldea": 197,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Dark",
     "type2": null
   },
   {
@@ -20764,8 +20764,8 @@
     "paldea": 202,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Normal"
   },
   {
     "id": 945,
@@ -20786,8 +20786,8 @@
     "paldea": 203,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Normal"
   },
   {
     "id": 946,
@@ -20808,8 +20808,8 @@
     "paldea": 242,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Ghost"
   },
   {
     "id": 947,
@@ -20830,8 +20830,8 @@
     "paldea": 243,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Ghost"
   },
   {
     "id": 948,
@@ -20852,8 +20852,8 @@
     "paldea": 244,
     "kitakami": 74,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Grass"
   },
   {
     "id": 949,
@@ -20874,8 +20874,8 @@
     "paldea": 245,
     "kitakami": 75,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Grass"
   },
   {
     "id": 950,
@@ -20896,7 +20896,7 @@
     "paldea": 249,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Rock",
     "type2": null
   },
   {
@@ -20918,7 +20918,7 @@
     "paldea": 250,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -20940,8 +20940,8 @@
     "paldea": 251,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Fire"
   },
   {
     "id": 953,
@@ -20962,7 +20962,7 @@
     "paldea": 254,
     "kitakami": null,
     "blueberry": 30,
-    "type1": null,
+    "type1": "Bug",
     "type2": null
   },
   {
@@ -20984,8 +20984,8 @@
     "paldea": 255,
     "kitakami": null,
     "blueberry": 31,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Psychic"
   },
   {
     "id": 955,
@@ -21006,7 +21006,7 @@
     "paldea": 263,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -21028,7 +21028,7 @@
     "paldea": 264,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Psychic",
     "type2": null
   },
   {
@@ -21050,8 +21050,8 @@
     "paldea": 279,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fairy",
+    "type2": "Steel"
   },
   {
     "id": 958,
@@ -21072,8 +21072,8 @@
     "paldea": 280,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fairy",
+    "type2": "Steel"
   },
   {
     "id": 959,
@@ -21094,8 +21094,8 @@
     "paldea": 281,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fairy",
+    "type2": "Steel"
   },
   {
     "id": 960,
@@ -21116,7 +21116,7 @@
     "paldea": 288,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -21138,7 +21138,7 @@
     "paldea": 289,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -21160,8 +21160,8 @@
     "paldea": 290,
     "kitakami": 134,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Flying",
+    "type2": "Dark"
   },
   {
     "id": 963,
@@ -21182,7 +21182,7 @@
     "paldea": 291,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -21204,7 +21204,7 @@
     "paldea": 292,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -21226,8 +21226,8 @@
     "paldea": 293,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Poison"
   },
   {
     "id": 966,
@@ -21248,8 +21248,8 @@
     "paldea": 294,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Poison"
   },
   {
     "id": 967,
@@ -21270,8 +21270,8 @@
     "paldea": 295,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Normal"
   },
   {
     "id": 968,
@@ -21292,7 +21292,7 @@
     "paldea": 296,
     "kitakami": 96,
     "blueberry": null,
-    "type1": null,
+    "type1": "Steel",
     "type2": null
   },
   {
@@ -21314,8 +21314,8 @@
     "paldea": 308,
     "kitakami": 156,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Poison"
   },
   {
     "id": 970,
@@ -21336,8 +21336,8 @@
     "paldea": 309,
     "kitakami": 157,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Poison"
   },
   {
     "id": 971,
@@ -21358,7 +21358,7 @@
     "paldea": 311,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -21380,7 +21380,7 @@
     "paldea": 312,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -21402,8 +21402,8 @@
     "paldea": 346,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Flying",
+    "type2": "Fighting"
   },
   {
     "id": 974,
@@ -21424,7 +21424,7 @@
     "paldea": 361,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -21446,7 +21446,7 @@
     "paldea": 362,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ice",
     "type2": null
   },
   {
@@ -21468,8 +21468,8 @@
     "paldea": 373,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Psychic"
   },
   {
     "id": 977,
@@ -21490,7 +21490,7 @@
     "paldea": 374,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Water",
     "type2": null
   },
   {
@@ -21512,8 +21512,8 @@
     "paldea": 375,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Water"
   },
   {
     "id": 979,
@@ -21534,8 +21534,8 @@
     "paldea": 160,
     "kitakami": 101,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Ghost"
   },
   {
     "id": 980,
@@ -21556,8 +21556,8 @@
     "paldea": 54,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Ground"
   },
   {
     "id": 981,
@@ -21578,8 +21578,8 @@
     "paldea": 193,
     "kitakami": null,
     "blueberry": 26,
-    "type1": null,
-    "type2": null
+    "type1": "Normal",
+    "type2": "Psychic"
   },
   {
     "id": 982,
@@ -21600,7 +21600,7 @@
     "paldea": 189,
     "kitakami": 161,
     "blueberry": null,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -21622,8 +21622,8 @@
     "paldea": 369,
     "kitakami": 188,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Steel"
   },
   {
     "id": 984,
@@ -21644,8 +21644,8 @@
     "paldea": 376,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Fighting"
   },
   {
     "id": 985,
@@ -21666,8 +21666,8 @@
     "paldea": 377,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fairy",
+    "type2": "Psychic"
   },
   {
     "id": 986,
@@ -21688,8 +21688,8 @@
     "paldea": 378,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Dark"
   },
   {
     "id": 987,
@@ -21710,8 +21710,8 @@
     "paldea": 379,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ghost",
+    "type2": "Fairy"
   },
   {
     "id": 988,
@@ -21732,8 +21732,8 @@
     "paldea": 380,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Bug",
+    "type2": "Fighting"
   },
   {
     "id": 989,
@@ -21754,8 +21754,8 @@
     "paldea": 381,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Ground"
   },
   {
     "id": 990,
@@ -21776,8 +21776,8 @@
     "paldea": 382,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ground",
+    "type2": "Steel"
   },
   {
     "id": 991,
@@ -21798,8 +21798,8 @@
     "paldea": 383,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Ice",
+    "type2": "Water"
   },
   {
     "id": 992,
@@ -21820,8 +21820,8 @@
     "paldea": 384,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Electric"
   },
   {
     "id": 993,
@@ -21842,8 +21842,8 @@
     "paldea": 385,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Flying"
   },
   {
     "id": 994,
@@ -21864,8 +21864,8 @@
     "paldea": 386,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Poison"
   },
   {
     "id": 995,
@@ -21886,8 +21886,8 @@
     "paldea": 387,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Electric"
   },
   {
     "id": 996,
@@ -21908,8 +21908,8 @@
     "paldea": 388,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ice"
   },
   {
     "id": 997,
@@ -21930,8 +21930,8 @@
     "paldea": 389,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ice"
   },
   {
     "id": 998,
@@ -21952,8 +21952,8 @@
     "paldea": 390,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Ice"
   },
   {
     "id": 999,
@@ -21974,7 +21974,7 @@
     "paldea": 391,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
+    "type1": "Ghost",
     "type2": null
   },
   {
@@ -21996,8 +21996,8 @@
     "paldea": 392,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Ghost"
   },
   {
     "id": 1001,
@@ -22018,8 +22018,8 @@
     "paldea": 393,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Grass"
   },
   {
     "id": 1002,
@@ -22040,8 +22040,8 @@
     "paldea": 394,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Ice"
   },
   {
     "id": 1003,
@@ -22062,8 +22062,8 @@
     "paldea": 395,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Ground"
   },
   {
     "id": 1004,
@@ -22084,8 +22084,8 @@
     "paldea": 396,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dark",
+    "type2": "Fire"
   },
   {
     "id": 1005,
@@ -22106,8 +22106,8 @@
     "paldea": 397,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Dragon",
+    "type2": "Dark"
   },
   {
     "id": 1006,
@@ -22128,8 +22128,8 @@
     "paldea": 398,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fairy",
+    "type2": "Fighting"
   },
   {
     "id": 1007,
@@ -22150,8 +22150,8 @@
     "paldea": 399,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Fighting",
+    "type2": "Dragon"
   },
   {
     "id": 1008,
@@ -22172,8 +22172,8 @@
     "paldea": 400,
     "kitakami": null,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Dragon"
   },
   {
     "id": 1009,
@@ -22194,8 +22194,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 241,
-    "type1": null,
-    "type2": null
+    "type1": "Water",
+    "type2": "Dragon"
   },
   {
     "id": 1010,
@@ -22216,8 +22216,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 242,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Psychic"
   },
   {
     "id": 1011,
@@ -22238,8 +22238,8 @@
     "paldea": null,
     "kitakami": 36,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Dragon"
   },
   {
     "id": 1012,
@@ -22260,8 +22260,8 @@
     "paldea": null,
     "kitakami": 76,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Ghost"
   },
   {
     "id": 1013,
@@ -22282,8 +22282,8 @@
     "paldea": null,
     "kitakami": 77,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Ghost"
   },
   {
     "id": 1014,
@@ -22304,8 +22304,8 @@
     "paldea": null,
     "kitakami": 197,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Fighting"
   },
   {
     "id": 1015,
@@ -22326,8 +22326,8 @@
     "paldea": null,
     "kitakami": 198,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Psychic"
   },
   {
     "id": 1016,
@@ -22348,8 +22348,8 @@
     "paldea": null,
     "kitakami": 199,
     "blueberry": null,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Fairy"
   },
   {
     "id": 1017,
@@ -22370,7 +22370,7 @@
     "paldea": null,
     "kitakami": 200,
     "blueberry": null,
-    "type1": null,
+    "type1": "Grass",
     "type2": null
   },
   {
@@ -22392,8 +22392,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 162,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Dragon"
   },
   {
     "id": 1019,
@@ -22414,8 +22414,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 163,
-    "type1": null,
-    "type2": null
+    "type1": "Grass",
+    "type2": "Dragon"
   },
   {
     "id": 1020,
@@ -22436,8 +22436,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 236,
-    "type1": null,
-    "type2": null
+    "type1": "Fire",
+    "type2": "Dragon"
   },
   {
     "id": 1021,
@@ -22458,8 +22458,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 237,
-    "type1": null,
-    "type2": null
+    "type1": "Electric",
+    "type2": "Dragon"
   },
   {
     "id": 1022,
@@ -22480,8 +22480,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 239,
-    "type1": null,
-    "type2": null
+    "type1": "Rock",
+    "type2": "Psychic"
   },
   {
     "id": 1023,
@@ -22502,8 +22502,8 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 238,
-    "type1": null,
-    "type2": null
+    "type1": "Steel",
+    "type2": "Psychic"
   },
   {
     "id": 1024,
@@ -22524,7 +22524,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 240,
-    "type1": null,
+    "type1": "Normal",
     "type2": null
   },
   {
@@ -22546,7 +22546,7 @@
     "paldea": null,
     "kitakami": null,
     "blueberry": 243,
-    "type1": null,
-    "type2": null
+    "type1": "Poison",
+    "type2": "Ghost"
   }
 ]
